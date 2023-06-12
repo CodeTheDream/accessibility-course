@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaccessibilty_sas=self.webpackChunkaccessibilty_sas||[]).push([[717],{6449:s=>{s.exports=JSON.parse('{"permalink":"/accessibility-course/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaccessibilty_sas=self.webpackChunkaccessibilty_sas||[]).push([[558],{4094:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/accessibility-mini/blog/tags/docusaurus","allTagsPath":"/accessibility-mini/blog/tags","count":4}')}}]);
