@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaccessibilty_sas=self.webpackChunkaccessibilty_sas||[]).push([[265],{2105:s=>{s.exports=JSON.parse('{"label":"hola","permalink":"/accessibility-mini/blog/tags/hola","allTagsPath":"/accessibility-mini/blog/tags","count":1}')}}]);
