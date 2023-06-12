@@ -7,21 +7,22 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Accessibility Testing',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'CtD Labs',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://codethedream.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/accessibility-mini',
 
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Code the Dream', // Usually your GitHub org/user name.
+  organizationName: 'CodetheDream', // Usually your GitHub org/user name.
   projectName: 'accessibility-course', // Usually your repo name.
-  deploymentBranch: 'main', // The branch of your site that GitHub pages will deploy from.
+  // deploymentBranch: 'main', // The branch of your site that GitHub pages will deploy from.
+  trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
